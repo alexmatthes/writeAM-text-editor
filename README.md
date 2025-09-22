@@ -2,7 +2,7 @@
 
 A lightweight, minimalist text editor that runs directly in your terminal. This project was built from scratch in C, with zero external library dependencies. It is inspired by the classic [Kilo editor tutorial](http://viewsourcecode.org/snaptoken/kilo/index.html).
 
-![writeAM Screenshot](assets/Screenshot 2025-09-21 202016.png) 
+![writeAM Screenshot](assets/screenshot.png) 
 
 ---
 
