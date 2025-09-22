@@ -8,7 +8,9 @@ A lightweight, minimalist text editor that runs directly in your terminal. This 
 
 ## About The Project
 
-`writeAM` is a demonstration of core systems programming concepts in a Unix-like environment. It manipulates the terminal using raw mode and ANSI escape sequences to provide a simple, modern text editing experience without leaving the command line. The entire application is contained within a single C file, making it a great case study in C programming, memory management, and terminal I/O.
+`writeAM` is a demonstration of core systems programming concepts in a Unix-like environment. **The name is a nod to the author's initials, Alex Matthes (AM).**
+
+The editor manipulates the terminal using raw mode and ANSI escape sequences to provide a simple, modern text editing experience without leaving the command line. The entire application is contained within a single C file, making it a great case study in C programming, memory management, and terminal I/O.
 
 ## Features
 
@@ -86,6 +88,12 @@ Run the editor from the command line. You can start with an empty buffer or open
 * **`Home` / `End`**: Move the cursor to the start/end of the current line.
 
 ---
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+*(Note: You'll need to add a file named `LICENSE` to your repo with the MIT License text if you choose this license.)*
 
 ## Acknowledgments
 
