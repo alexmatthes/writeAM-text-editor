@@ -87,12 +87,6 @@ Run the editor from the command line. You can start with an empty buffer or open
 
 ---
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-*(Note: You'll need to add a file named `LICENSE` to your repo with the MIT License text if you choose this license.)*
-
 ## Acknowledgments
 
 * This project was heavily inspired by the "Build Your Own Text Editor" tutorial for the **Kilo** editor.
